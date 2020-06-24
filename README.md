@@ -1,2 +1,2 @@
-# Jogo-da-Forca
+#JogoDaForca
 Jogo da Forca
