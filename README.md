@@ -1,2 +1,1 @@
 #JogoDaForca
-Jogo da Forca
